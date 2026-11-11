@@ -1,4 +1,4 @@
-# data-project-deck
+# Data Analysis Presentation Skill
 
 An agent skill that builds presentation decks for data analysis and data science
 projects: the business problem, the data and pipeline, key findings with charts,
