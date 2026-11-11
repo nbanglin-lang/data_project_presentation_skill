@@ -45,7 +45,7 @@ The skill is a folder containing a `SKILL.md`, following the Agent Skills format
 For Claude Code, copy the skill folder into your skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/data-project-deck-skill.git
+git clone https://github.com/nbanglin-lang/data-project-deck-skill.git
 cp -r data-project-deck-skill/skills/data-project-deck ~/.claude/skills/
 ```
 
